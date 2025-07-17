@@ -1,0 +1,221 @@
+ID,RestaurantName,Feedback,MatchedName,Restaurant Name,Star,City,State,Cusine Type,Price Range
+1,SingleThread,Good,SingleThread,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+2,SingleThread,Good,SingleThread,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+3,Jua,Good,Jua,Jua,1,Manhattan,NY,Korean,$200–$400
+4,Jua,Good,Jua,Jua,1,Manhattan,NY,Korean,$200–$400
+5,Smyth,Good,Smyth,Smyth,3,Chicago,IL,Contemporary,$400–$600
+6,Per Se,Good,Per Se,Per Se,3,Manhattan,NY,Contemporary,$400–$600
+7,Per Se,Good,Per Se,Per Se,3,Manhattan,NY,Contemporary,$400–$600
+8,Carino,Good,Cariño,Cariño,1,Chicago,IL,Mexican,$100–$200
+9,Smyth,Good,Smyth,Smyth,3,Chicago,IL,Contemporary,$400–$600
+11,Le Bernardin,Good,Le Bernardin,Le Bernardin,3,Manhattan,NY,Seafood,$400–$600
+12,Californios,Good,Californios,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+15,SingleThread,Good,SingleThread,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+16,Saison,Good,Saison,Saison,2,San Francisco,CA,Californian,$400–$600
+17,Saison,Good,Saison,Saison,2,San Francisco,CA,Californian,$400–$600
+18,Boka,Good,Boka,Boka,1,Chicago,IL,American,$200–$400
+19,The French Laundry,Good,The French Laundry,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+20,Le Bernardine,Good,Le Bernardin,Le Bernardin,3,Manhattan,NY,Seafood,$400–$600
+21,Smyth,Good,Smyth,Smyth,3,Chicago,IL,Contemporary,$400–$600
+23,Oriole,Good,Oriole,Oriole,2,Chicago,IL,Contemporary,$400–$600
+25,Eleven Madison Park,Good,Eleven Madison Park,Eleven Madison Park,3,Manhattan,NY,Vegan/Contemporary,$400–$600
+26,Minibar,Good,minibar,minibar,2,Washington,DC,Contemporary,$400–$600
+27,Le Bernardin,Good,Le Bernardin,Le Bernardin,3,Manhattan,NY,Seafood,$400–$600
+28,Per Se,Good,Per Se,Per Se,3,Manhattan,NY,Contemporary,$400–$600
+29,Birdsong,Good,Birdsong,Birdsong,2,San Francisco,CA,Contemporary,$400–$600
+30,SingleThread,Good,SingleThread,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+31,Alinea,Good,Alinea,Alinea,3,Chicago,IL,Creative,$400–$600
+32,Camphor,Good,Camphor,Camphor,1,Los Angeles,CA,French,$100–$200
+33,Providence,Good,Providence,Providence,3,Los Angeles,CA,Seafood,$400–$600
+34,Gramercy Tavern,Good,Gramercy Tavern,Gramercy Tavern,1,Manhattan,NY,Contemporary,$100–$200
+35,Aska,Good,Aska,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+35,Aska,Good,Aska,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+36,Addison,Good,Addison,Addison,3,San Diego,CA,Contemporary,$400–$600
+38,SingleThread,Good,SingleThread,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+39,SingleThread,Good,SingleThread,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+40,Restaurant Yuu,Good,Restaurant Yuu,Restaurant Yuu,1,Brooklyn,NY,French,$200–$400
+42,Gabriel Kreuther,Good,Gabriel Kreuther,Gabriel Kreuther,2,Manhattan,NY,Alsatian,$200–$400
+42,Gabriel Kreuther,Good,Gabriel Kreuther,Gabriel Kreuther,2,Manhattan,NY,Alsatian,$200–$400
+43,Per Se,Good,Per Se,Per Se,3,Manhattan,NY,Contemporary,$400–$600
+1,Sushi Sho,Good,Sushi Sho,Sushi Sho,1,Manhattan,NY,Japanese,$400–$600
+2,The French Laundry,Good,The French Laundry,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+3,Sushi Sho,Good,Sushi Sho,Sushi Sho,1,Manhattan,NY,Japanese,$400–$600
+5,Oriole,Good,Oriole,Oriole,2,Chicago,IL,Contemporary,$400–$600
+8,SingleThread,Good,SingleThread,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+9,Ever,Good,Ever,Ever,2,Chicago,IL,Creative,$400–$600
+10,The Progress,Good,The Progress,The Progress,1,San Francisco,CA,Californian,$200–$400
+11,Per Se,Good,Per Se,Per Se,3,Manhattan,NY,Contemporary,$400–$600
+12,Aska,Good,Aska,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+12,Aska,Good,Aska,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+13,Aska,Good,Aska,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+13,Aska,Good,Aska,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+14,The Shota,Good,The Shota,The Shota,1,San Francisco,CA,Japanese,$200–$400
+15,Inn at Little Washington,Good,Inn at Little Washington,Inn at Little Washington,3,Rappahannock,VA,American,$400–$600
+16,Californios,Good,Californios,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+18,Californios,Good,Californios,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+19,SingleThread,Good,SingleThread,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+21,Elske,Good,Elske,Elske,1,Chicago,IL,Nordic,$100–$200
+22,Hayato,Good,Hayato,Hayato,2,Los Angeles,CA,Japanese,$400–$600
+23,Boka,Good,Boka,Boka,1,Chicago,IL,American,$200–$400
+25,Minibar,Good,minibar,minibar,2,Washington,DC,Contemporary,$400–$600
+26,Sushi Taro,Good,Sushi Taro,Sushi Taro,1,Washington,DC,Japanese,$100–$200
+27,Moody Tongue,Good,Moody Tongue,Moody Tongue,2,Chicago,IL,Contemporary,$200–$400
+29,Quience,Good,Quince,Quince,3,San Francisco,CA,Contemporary,$400–$600
+30,Benu,Good,Benu,Benu,3,San Francisco,CA,Asian,$400–$600
+31,Blue Hill at Stone Barns,Good,Blue Hill at Stone Barns,Blue Hill at Stone Barns,1,Pocantico Hills,NY,American,$400–$600
+32,Saison,Good,Saison,Saison,2,San Francisco,CA,Californian,$400–$600
+33,Chef's Table at Brooklyn Fare,Good,Chef’s Table at Brooklyn Fare,Chef’s Table at Brooklyn Fare,2,Brooklyn,NY,Contemporary,$400–$600
+33,Chef's Table at Brooklyn Fare,Good,Chef’s Table at Brooklyn Fare,Chef’s Table at Brooklyn Fare,2,Brooklyn,NY,Contemporary,$400–$600
+34,The Modern,Good,The Modern,The Modern,2,Manhattan,NY,Contemporary,$200–$400
+34,The Modern,Good,The Modern,The Modern,2,Manhattan,NY,Contemporary,$200–$400
+35,Eleven Madison Park,Good,Eleven Madison Park,Eleven Madison Park,3,Manhattan,NY,Vegan/Contemporary,$400–$600
+36,Hayato,Good,Hayato,Hayato,2,Los Angeles,CA,Japanese,$400–$600
+37,The French Laundry,Good,The French Laundry,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+38,Lazy Bear,Good,Lazy Bear,Lazy Bear,2,San Francisco,CA,Contemporary,$400–$600
+39,Lazy Bear,Good,Lazy Bear,Lazy Bear,2,San Francisco,CA,Contemporary,$400–$600
+40,Atomix,Good,Atomix,Atomix,2,Manhattan,NY,Korean,$400–$600
+40,Atomix,Good,Atomix,Atomix,2,Manhattan,NY,Korean,$400–$600
+42,Jean Georges,Good,Jean-Georges,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+42,Jean Georges,Good,Jean-Georges,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+43,Jean Georges,Good,Jean-Georges,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+43,Jean Georges,Good,Jean-Georges,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+44,Capa,Good,Capa,Capa,1,Lake Buena Vista,FL,Steakhouse,$100–$200
+1,Atomix,Good,Atomix,Atomix,2,Manhattan,NY,Korean,$400–$600
+1,Atomix,Good,Atomix,Atomix,2,Manhattan,NY,Korean,$400–$600
+5,Kasama,Good,Kasama,Kasama,1,Chicago,IL,Filipino,$100–$200
+8,Smyth,Good,Smyth,Smyth,3,Chicago,IL,Contemporary,$400–$600
+9,Oriole,Good,Oriole,Oriole,2,Chicago,IL,Contemporary,$400–$600
+10,State Bird Provisions,Good,State Bird Provisions,State Bird Provisions,1,San Francisco,CA,Californian,$100–$200
+11,Jean Georges,Good,Jean-Georges,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+11,Jean Georges,Good,Jean-Georges,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+12,Saison,Good,Saison,Saison,2,San Francisco,CA,Californian,$400–$600
+15,Masa,Good,Masa,Masa,3,Manhattan,NY,Japanese,$600–$800
+16,Aska,Good,Aska,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+16,Aska,Good,Aska,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+18,The Kitchen,Good,The Kitchen,The Kitchen,1,Sacramento,CA,Californian,$200–$400
+19,Masa,Good,Masa,Masa,3,Manhattan,NY,Japanese,$600–$800
+20,Topolobampo,Good,Topolobampo,Topolobampo,1,Chicago,IL,Mexican,$100–$200
+23,Topolobampo,Good,Topolobampo,Topolobampo,1,Chicago,IL,Mexican,$100–$200
+26,Fiola,Good,Fiola,Fiola,1,Washington,DC,Italian,$200–$400
+28,Al Coro,Good,Al Coro,Al Coro,1,Manhattan,NY,Italian,$400–$600
+29,SingleThread,Good,SingleThread,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+30,Californios,Good,Californios,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+34,Jean Georges,Good,Jean-Georges,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+34,Jean Georges,Good,Jean-Georges,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+35,Oxomocco,Good,Oxomoco,Oxomoco,1,Brooklyn,NY,Mexican,$100–$200
+38,Sushi Nakazawa,Good,Sushi Nakazawa,Sushi Nakazawa,1,Washington,DC,Japanese,$200–$400
+38,Sushi Nakazawa,Good,Sushi Nakazawa,Sushi Nakazawa,1,Manhattan,NY,Japanese,$200–$400
+39,Californios,Good,Californios,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+40,Per Se,Good,Per Se,Per Se,3,Manhattan,NY,Contemporary,$400–$600
+1,Jônt,Good,Jônt,Jônt,2,Washington,DC,Contemporary,$400–$600
+5,Benu,Good,Benu,Benu,3,San Francisco,CA,Asian,$400–$600
+11,Oriole,Good,Oriole,Oriole,2,Chicago,IL,Contemporary,$400–$600
+15,Masseria,Good,Masseria,Masseria,1,Washington,DC,Italian,$200–$400
+16,Providence,Good,Providence,Providence,3,Los Angeles,CA,Seafood,$400–$600
+23,Jungsik,Good,Jungsik,Jungsik,3,Manhattan,NY,Korean,$400–$600
+25,Reverie,Good,Reverie,Reverie,1,Washington,DC,Contemporary,$200–$400
+26,Maydan,Good,Maydan,Maydan,1,Washington,DC,Middle Eastern,$100–$200
+28,El Cielo,Good,El Cielo,El Cielo,1,Washington,DC,Colombian,$200–$400
+28,El Cielo,Good,El Cielo,El Cielo,1,Miami,FL,Colombian,$200–$400
+29,The French Laundry,Good,The French Laundry,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+30,Atomix,Good,Atomix,Atomix,2,Manhattan,NY,Korean,$400–$600
+30,Atomix,Good,Atomix,Atomix,2,Manhattan,NY,Korean,$400–$600
+34,Le Pavillon,Good,Le Pavillon,Le Pavillon,1,Manhattan,NY,Contemporary,$200–$400
+36,Providence,Good,Providence,Providence,3,Los Angeles,CA,Seafood,$400–$600
+40,Rezdora,Good,Rezdôra,Rezdôra,1,Manhattan,NY,Italian,$100–$200
+43,Le Pavilion,Good,Le Pavillon,Le Pavillon,1,Manhattan,NY,Contemporary,$200–$400
+1,The French Laundry,Good,The French Laundry,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+5,Californios,Good,Californios,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+11,Ever,Good,Ever,Ever,2,Chicago,IL,Creative,$400–$600
+23,The Modern,Good,The Modern,The Modern,2,Manhattan,NY,Contemporary,$200–$400
+23,The Modern,Good,The Modern,The Modern,2,Manhattan,NY,Contemporary,$200–$400
+25,Ever,Good,Ever,Ever,2,Chicago,IL,Creative,$400–$600
+26,Albi,Good,Albi,Albi,1,Washington,DC,Middle Eastern,$200–$400
+29,Per Se,Good,Per Se,Per Se,3,Manhattan,NY,Contemporary,$400–$600
+34,Gabriel Kreuter,Good,Gabriel Kreuther,Gabriel Kreuther,2,Manhattan,NY,Alsatian,$200–$400
+34,Gabriel Kreuter,Good,Gabriel Kreuther,Gabriel Kreuther,2,Manhattan,NY,Alsatian,$200–$400
+36,Sushi Kaneyoshi,Good,Sushi Kaneyoshi,Sushi Kaneyoshi,1,Los Angeles,CA,Japanese,$400–$600
+1,Jua,Good,Jua,Jua,1,Manhattan,NY,Korean,$200–$400
+5,SingleThread,Good,SingleThread,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+10,Lazy Bear,Good,Lazy Bear,Lazy Bear,2,San Francisco,CA,Contemporary,$400–$600
+14,Lazy Bear,Good,Lazy Bear,Lazy Bear,2,San Francisco,CA,Contemporary,$400–$600
+21,Addison,Good,Addison,Addison,3,San Diego,CA,Contemporary,$400–$600
+23,Aquavit,Good,Aquavit,Aquavit,2,Manhattan,NY,Scandinavian,$200–$400
+23,Aquavit,Good,Aquavit,Aquavit,2,Manhattan,NY,Scandinavian,$200–$400
+26,Oyster/Oyster,Good,Oyster Oyster,Oyster Oyster,1,Washington,DC,Vegetarian,$100–$200
+29,Atelier Crenn,Good,Atelier Crenn,Atelier Crenn,3,San Francisco,CA,Contemporary,$400–$600
+34,Mari,Good,Mari,Mari,1,Manhattan,NY,Korean,$200–$400
+36,The French Laundry,Good,The French Laundry,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+40,Meju,Good,Meju,Meju,1,Queens,NY,Korean,$200–$400
+43,Saga,Good,Saga,Saga,2,Manhattan,NY,Contemporary,$400–$600
+43,Saga,Good,Saga,Saga,2,Manhattan,NY,Contemporary,$400–$600
+5,Saison,Good,Saison,Saison,2,San Francisco,CA,Californian,$400–$600
+10,Californios,Good,Californios,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+23,Gabriel Kreuther,Good,Gabriel Kreuther,Gabriel Kreuther,2,Manhattan,NY,Alsatian,$200–$400
+23,Gabriel Kreuther,Good,Gabriel Kreuther,Gabriel Kreuther,2,Manhattan,NY,Alsatian,$200–$400
+26,Little Pearl,Good,Little Pearl,Little Pearl,1,Washington,DC,Contemporary,$100–$200
+28,Torrisi,Good,Torrisi,Torrisi,1,Manhattan,NY,Italian,$100–$200
+29,The Shota,Good,The Shota,The Shota,1,San Francisco,CA,Japanese,$200–$400
+34,Kochi,Good,Kochi,Kochi,1,Manhattan,NY,Korean,$100–$200
+36,SingleThread,Good,SingleThread,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+40,Saga,Good,Saga,Saga,2,Manhattan,NY,Contemporary,$400–$600
+40,Saga,Good,Saga,Saga,2,Manhattan,NY,Contemporary,$400–$600
+43,One White Street,Good,One White Street,One White Street,1,Manhattan,NY,Contemporary,$200–$400
+5,The Modern,Good,The Modern,The Modern,2,Manhattan,NY,Contemporary,$200–$400
+5,The Modern,Good,The Modern,The Modern,2,Manhattan,NY,Contemporary,$200–$400
+10,Birdsong,Good,Birdsong,Birdsong,2,San Francisco,CA,Contemporary,$400–$600
+14,Cyrus,Good,Cyrus,Cyrus,1,Geyserville,CA,Californian,$200–$400
+21,The French Laundry,Good,The French Laundry,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+26,Pineapple & Pearls,Good,Pineapple & Pearls,Pineapple & Pearls,1,Washington,DC,Contemporary,$200–$400
+28,Cote,Good,Cote,Cote,1,Manhattan,NY,Korean,$100–$200
+29,Sorrel,Good,Sorrel,Sorrel,1,San Francisco,CA,Contemporary,$200–$400
+36,Harbor House,Good,Harbor House,Harbor House,2,Elk,CA,Californian,$400–$600
+43,Estela,Good,Estela,Estela,1,Manhattan,NY,Contemporary,$100–$200
+21,Californios,Good,Californios,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+26,The Inn at Little Washington,Good,Inn at Little Washington,Inn at Little Washington,3,Rappahannock,VA,American,$400–$600
+29,Le Bernardin,Good,Le Bernardin,Le Bernardin,3,Manhattan,NY,Seafood,$400–$600
+34,Daniel,Good,Daniel,Daniel,2,Manhattan,NY,French,$400–$600
+34,Daniel,Good,Daniel,Daniel,2,Manhattan,NY,French,$400–$600
+36,Oriole,Good,Oriole,Oriole,2,Chicago,IL,Contemporary,$400–$600
+43,Atomix,Good,Atomix,Atomix,2,Manhattan,NY,Korean,$400–$600
+43,Atomix,Good,Atomix,Atomix,2,Manhattan,NY,Korean,$400–$600
+5,Rezdora,Good,Rezdôra,Rezdôra,1,Manhattan,NY,Italian,$100–$200
+10,Commis,Good,Commis,Commis,2,Oakland,CA,Contemporary,$200–$400
+23,Le Bernardin,Good,Le Bernardin,Le Bernardin,3,Manhattan,NY,Seafood,$400–$600
+26,The Shota,Good,The Shota,The Shota,1,San Francisco,CA,Japanese,$200–$400
+34,Aquavit,Good,Aquavit,Aquavit,2,Manhattan,NY,Scandinavian,$200–$400
+34,Aquavit,Good,Aquavit,Aquavit,2,Manhattan,NY,Scandinavian,$200–$400
+43,Jungsik,Good,Jungsik,Jungsik,3,Manhattan,NY,Korean,$400–$600
+10,Benu,Good,Benu,Benu,3,San Francisco,CA,Asian,$400–$600
+34,Le Bernardin,Good,Le Bernardin,Le Bernardin,3,Manhattan,NY,Seafood,$400–$600
+10,SingleThread,Good,SingleThread,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+26,The French Laundry,Good,The French Laundry,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+10,Quince,Good,Quince,Quince,3,San Francisco,CA,Contemporary,$400–$600
+10,Atelier Crenn,Good,Atelier Crenn,Atelier Crenn,3,San Francisco,CA,Contemporary,$400–$600
+10,Saison,Good,Saison,Saison,2,San Francisco,CA,Californian,$400–$600
+2,Benu,Bad,Benu,Benu,3,San Francisco,CA,Asian,$400–$600
+3,Atomix,Bad,Atomix,Atomix,2,Manhattan,NY,Korean,$400–$600
+3,Atomix,Bad,Atomix,Atomix,2,Manhattan,NY,Korean,$400–$600
+4,Atomix,Bad,Atomix,Atomix,2,Manhattan,NY,Korean,$400–$600
+4,Atomix,Bad,Atomix,Atomix,2,Manhattan,NY,Korean,$400–$600
+11,Jungsik,Bad,Jungsik,Jungsik,3,Manhattan,NY,Korean,$400–$600
+14,Alinea,Bad,Alinea,Alinea,3,Chicago,IL,Creative,$400–$600
+26,Alinea,Bad,Alinea,Alinea,3,Chicago,IL,Creative,$400–$600
+32,Le Bernadin,Bad,Le Bernardin,Le Bernardin,3,Manhattan,NY,Seafood,$400–$600
+36,Smyth,Bad,Smyth,Smyth,3,Chicago,IL,Contemporary,$400–$600
+37,SingleThread,Bad,SingleThread,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+39,Benu,Bad,Benu,Benu,3,San Francisco,CA,Asian,$400–$600
+41,Cote,Bad,Cote,Cote,1,Manhattan,NY,Korean,$100–$200
+11,Sushi Nakazawa,Bad,Sushi Nakazawa,Sushi Nakazawa,1,Washington,DC,Japanese,$200–$400
+11,Sushi Nakazawa,Bad,Sushi Nakazawa,Sushi Nakazawa,1,Manhattan,NY,Japanese,$200–$400
+14,Quince,Bad,Quince,Quince,3,San Francisco,CA,Contemporary,$400–$600
+26,Spruce,Bad,Spruce,Spruce,1,San Francisco,CA,Californian,$200–$400
+36,Ever,Bad,Ever,Ever,2,Chicago,IL,Creative,$400–$600
+39,Atelier Crenn,Bad,Atelier Crenn,Atelier Crenn,3,San Francisco,CA,Contemporary,$400–$600
+41,Le Jardinier,Bad,Le Jardinier,Le Jardinier,1,Manhattan,NY,French,$200–$400
+11,Alinea,Bad,Alinea,Alinea,3,Chicago,IL,Creative,$400–$600
+14,Atelier Crenn,Bad,Atelier Crenn,Atelier Crenn,3,San Francisco,CA,Contemporary,$400–$600
+26,Elske,Bad,Elske,Elske,1,Chicago,IL,Nordic,$100–$200
+41,Ariete,Bad,Ariete,Ariete,1,Miami,FL,Contemporary,$100–$200
+26,Gravitas,Bad,Gravitas,Gravitas,1,Washington,DC,American,$100–$200
+41,Los Felix,Bad,Los Félix,Los Félix,1,Miami,FL,Mexican,$100–$200
