@@ -1,0 +1,263 @@
+﻿user_id,RestaurantName,MatchedName,Label,MatchScore,MatchMethod,Restaurant Name,Star,City,State,Cuisine Type,Price Range
+1,singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+1,sushi sho,Sushi Sho,1,100,token_set_ratio,Sushi Sho,1,Manhattan,NY,Japanese,$400–$600
+1,atomix,Atomix,1,100,token_set_ratio,Atomix,2,Manhattan,NY,Korean,$400–$600
+1,atomix,Atomix,1,100,token_set_ratio,Atomix,2,Manhattan,NY,Korean,$400–$600
+1,jont,Jônt,1,100,manual,Jônt,2,Washington,DC,Contemporary,$400–$600
+1,the french laundry,The French Laundry,1,100,token_set_ratio,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+1,jua,Jua,1,100,token_set_ratio,Jua,1,Manhattan,NY,Korean,$200–$400
+2,singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+2,the french laundry,The French Laundry,1,100,token_set_ratio,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+2,benu,Benu,0,100,token_set_ratio,Benu,3,San Francisco,CA,Asian,$400–$600
+3,jua,Jua,1,100,token_set_ratio,Jua,1,Manhattan,NY,Korean,$200–$400
+3,sushi sho,Sushi Sho,1,100,token_set_ratio,Sushi Sho,1,Manhattan,NY,Japanese,$400–$600
+3,atomix,Atomix,0,100,token_set_ratio,Atomix,2,Manhattan,NY,Korean,$400–$600
+3,atomix,Atomix,0,100,token_set_ratio,Atomix,2,Manhattan,NY,Korean,$400–$600
+4,jua,Jua,1,100,token_set_ratio,Jua,1,Manhattan,NY,Korean,$200–$400
+4,noksu,Noksu,1,100,token_set_ratio,Noksu,1,Manhattan,NY,Korean,$100–$200
+4,atomix,Atomix,0,100,token_set_ratio,Atomix,2,Manhattan,NY,Korean,$400–$600
+4,atomix,Atomix,0,100,token_set_ratio,Atomix,2,Manhattan,NY,Korean,$400–$600
+5,smyth,Smyth,1,100,token_set_ratio,Smyth,3,Chicago,IL,Contemporary,$400–$600
+5,oriole,Oriole,1,100,token_set_ratio,Oriole,2,Chicago,IL,Contemporary,$400–$600
+5,kasama,Kasama,1,100,token_set_ratio,Kasama,1,Chicago,IL,Filipino,$100–$200
+5,benu,Benu,1,100,token_set_ratio,Benu,3,San Francisco,CA,Asian,$400–$600
+5,californios,Californios,1,100,token_set_ratio,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+5,singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+5,saison,Saison,1,100,token_set_ratio,Saison,2,San Francisco,CA,Californian,$400–$600
+5,the modern,The Modern,1,100,token_set_ratio,The Modern,2,Manhattan,NY,Contemporary,$200–$400
+5,the modern,The Modern,1,100,token_set_ratio,The Modern,2,Manhattan,NY,Contemporary,$200–$400
+5,sushi noz,Sushi Noz,1,100,token_set_ratio,Sushi Noz,2,Manhattan,NY,Japanese,$400–$600
+5,rezdora,Rezdôra,1,100,token_set_ratio,Rezdôra,1,Manhattan,NY,Italian,$100–$200
+6,per se,Per Se,1,100,token_set_ratio,Per Se,3,Manhattan,NY,Contemporary,$400–$600
+6,river cafe,The River Café,1,100,token_set_ratio,The River Café,1,Brooklyn,NY,Contemporary,$200–$400
+7,per se,Per Se,1,100,token_set_ratio,Per Se,3,Manhattan,NY,Contemporary,$400–$600
+7,french laundry,The French Laundry,1,100,token_set_ratio,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+8,carino,Cariño,1,100,token_set_ratio,Cariño,1,Chicago,IL,Mexican,$100–$200
+8,singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+8,smyth,Smyth,1,100,token_set_ratio,Smyth,3,Chicago,IL,Contemporary,$400–$600
+9,smyth,Smyth,1,100,token_set_ratio,Smyth,3,Chicago,IL,Contemporary,$400–$600
+9,ever,Ever,1,100,token_set_ratio,Ever,2,Chicago,IL,Creative,$400–$600
+9,oriole,Oriole,1,100,token_set_ratio,Oriole,2,Chicago,IL,Contemporary,$400–$600
+10,kin khao,Kin Khao,1,100,token_set_ratio,Kin Khao,1,San Francisco,CA,Thai,Less than $100
+10,the progress,The Progress,1,100,token_set_ratio,The Progress,1,San Francisco,CA,Californian,$200–$400
+10,state bird provisions,State Bird Provisions,1,100,token_set_ratio,State Bird Provisions,1,San Francisco,CA,Californian,$100–$200
+10,lazy bear,Lazy Bear,1,100,token_set_ratio,Lazy Bear,2,San Francisco,CA,Contemporary,$400–$600
+10,californios,Californios,1,100,token_set_ratio,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+10,birdsong,Birdsong,1,100,token_set_ratio,Birdsong,2,San Francisco,CA,Contemporary,$400–$600
+10,sons,Sons & Daughters,1,100,token_set_ratio,Sons & Daughters,2,San Francisco,CA,Contemporary,$200–$400
+10,daughters,Sons & Daughters,1,100,token_set_ratio,Sons & Daughters,2,San Francisco,CA,Contemporary,$200–$400
+10,commis,Commis,1,100,token_set_ratio,Commis,2,Oakland,CA,Contemporary,$200–$400
+10,benu,Benu,1,100,token_set_ratio,Benu,3,San Francisco,CA,Asian,$400–$600
+10,singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+10,quince,Quince,1,100,token_set_ratio,Quince,3,San Francisco,CA,Contemporary,$400–$600
+10,atelier crenn,Atelier,1,100,token_set_ratio,Atelier,1,Chicago,IL,American,$200–$400
+10,saison,Saison,1,100,token_set_ratio,Saison,2,San Francisco,CA,Californian,$400–$600
+11,le bernardin,Le Bernardin,1,100,token_set_ratio,Le Bernardin,3,Manhattan,NY,Seafood,$400–$600
+11,per se,Per Se,1,100,token_set_ratio,Per Se,3,Manhattan,NY,Contemporary,$400–$600
+11,jean georges,Jean-Georges,1,100,token_set_ratio,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+11,jean georges,Jean-Georges,1,100,token_set_ratio,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+11,oriole,Oriole,1,100,token_set_ratio,Oriole,2,Chicago,IL,Contemporary,$400–$600
+11,ever,Ever,1,100,token_set_ratio,Ever,2,Chicago,IL,Creative,$400–$600
+11,jungsik,Jungsik,0,100,token_set_ratio,Jungsik,3,Manhattan,NY,Korean,$400–$600
+11,sushi nakazawa,Sushi Nakazawa,0,100,token_set_ratio,Sushi Nakazawa,1,Washington,DC,Japanese,$200–$400
+11,sushi nakazawa,Sushi Nakazawa,0,100,token_set_ratio,Sushi Nakazawa,1,Manhattan,NY,Japanese,$200–$400
+11,alinea,Alinea,0,100,token_set_ratio,Alinea,3,Chicago,IL,Creative,$400–$600
+12,californios,Californios,1,100,token_set_ratio,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+12,aska,Aska,1,100,token_set_ratio,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+12,aska,Aska,1,100,token_set_ratio,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+12,saison,Saison,1,100,token_set_ratio,Saison,2,San Francisco,CA,Californian,$400–$600
+13,jont,Jônt,1,100,manual,Jônt,2,Washington,DC,Contemporary,$400–$600
+13,aska,Aska,1,100,token_set_ratio,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+13,aska,Aska,1,100,token_set_ratio,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+13,noksu,Noksu,1,100,token_set_ratio,Noksu,1,Manhattan,NY,Korean,$100–$200
+14,sons,Sons & Daughters,1,100,token_set_ratio,Sons & Daughters,2,San Francisco,CA,Contemporary,$200–$400
+14,the shota,The Shota,1,100,token_set_ratio,The Shota,1,San Francisco,CA,Japanese,$200–$400
+14,nari,Nari,1,100,token_set_ratio,Nari,1,San Francisco,CA,Thai,$200–$400
+14,niku steakhouse,Niku Steakhouse,1,100,token_set_ratio,Niku Steakhouse,1,San Francisco,CA,American,Less than $100
+14,lazy bear,Lazy Bear,1,100,token_set_ratio,Lazy Bear,2,San Francisco,CA,Contemporary,$400–$600
+14,cyrus,Cyrus,1,100,token_set_ratio,Cyrus,1,Geyserville,CA,Californian,$200–$400
+14,alinea,Alinea,0,100,token_set_ratio,Alinea,3,Chicago,IL,Creative,$400–$600
+14,quince,Quince,0,100,token_set_ratio,Quince,3,San Francisco,CA,Contemporary,$400–$600
+14,atelier crenn,Atelier,0,100,token_set_ratio,Atelier,1,Chicago,IL,American,$200–$400
+14,french laundry,The French Laundry,0,100,token_set_ratio,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+15,singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+15,inn at little washington,Inn at Little Washington,1,100,token_set_ratio,Inn at Little Washington,3,Rappahannock,VA,American,$400–$600
+15,masa,Masa,1,100,token_set_ratio,Masa,3,Manhattan,NY,Japanese,$600–$800
+15,masseria,Masseria,1,100,token_set_ratio,Masseria,1,Washington,DC,Italian,$200–$400
+16,saison,Saison,1,100,token_set_ratio,Saison,2,San Francisco,CA,Californian,$400–$600
+16,californios,Californios,1,100,token_set_ratio,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+16,aska,Aska,1,100,token_set_ratio,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+16,aska,Aska,1,100,token_set_ratio,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+16,providence,Providence,1,100,token_set_ratio,Providence,3,Los Angeles,CA,Seafood,$400–$600
+17,saison,Saison,1,100,token_set_ratio,Saison,2,San Francisco,CA,Californian,$400–$600
+17,sons,Sons & Daughters,1,100,token_set_ratio,Sons & Daughters,2,San Francisco,CA,Contemporary,$200–$400
+17,daughters,Sons & Daughters,1,100,token_set_ratio,Sons & Daughters,2,San Francisco,CA,Contemporary,$200–$400
+18,boka,Boka,1,100,token_set_ratio,Boka,1,Chicago,IL,American,$200–$400
+18,californios,Californios,1,100,token_set_ratio,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+18,the kitchen,The Kitchen,1,100,token_set_ratio,The Kitchen,1,Sacramento,CA,Californian,$200–$400
+19,the french laundry,The French Laundry,1,100,token_set_ratio,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+19,singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+19,masa,Masa,1,100,token_set_ratio,Masa,3,Manhattan,NY,Japanese,$600–$800
+20,le bernardine,Le Bernardin,1,96,token_set_ratio,Le Bernardin,3,Manhattan,NY,Seafood,$400–$600
+20,esme,Esmé,1,100,token_set_ratio,Esmé,1,Chicago,IL,Contemporary,$200–$400
+20,topolobampo,Topolobampo,1,100,token_set_ratio,Topolobampo,1,Chicago,IL,Mexican,$100–$200
+21,smyth,Smyth,1,100,token_set_ratio,Smyth,3,Chicago,IL,Contemporary,$400–$600
+21,elske,Elske,1,100,token_set_ratio,Elske,1,Chicago,IL,Nordic,$100–$200
+21,somni,Somni,1,100,token_set_ratio,Somni,3,West Hollywood,CA,Contemporary,$600–$800
+21,vespertine,Vespertine,1,100,token_set_ratio,Vespertine,2,Culver City,CA,Contemporary,$400–$600
+21,addison,Addison,1,100,token_set_ratio,Addison,3,San Diego,CA,Contemporary,$400–$600
+21,the french laundry,The French Laundry,1,100,token_set_ratio,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+21,californios,Californios,1,100,token_set_ratio,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+21,holbox,Holbox,1,100,token_set_ratio,Holbox,1,Los Angels,CA,Mexican,$100–$200
+21,kin khao,Kin Khao,1,100,token_set_ratio,Kin Khao,1,San Francisco,CA,Thai,Less than $100
+22,somni,Somni,1,100,token_set_ratio,Somni,3,West Hollywood,CA,Contemporary,$600–$800
+22,hayato,Hayato,1,100,token_set_ratio,Hayato,2,Los Angeles,CA,Japanese,$400–$600
+23,oriole,Oriole,1,100,token_set_ratio,Oriole,2,Chicago,IL,Contemporary,$400–$600
+23,boka,Boka,1,100,token_set_ratio,Boka,1,Chicago,IL,American,$200–$400
+23,topolobampo,Topolobampo,1,100,token_set_ratio,Topolobampo,1,Chicago,IL,Mexican,$100–$200
+23,jungsik,Jungsik,1,100,token_set_ratio,Jungsik,3,Manhattan,NY,Korean,$400–$600
+23,the modern,The Modern,1,100,token_set_ratio,The Modern,2,Manhattan,NY,Contemporary,$200–$400
+23,the modern,The Modern,1,100,token_set_ratio,The Modern,2,Manhattan,NY,Contemporary,$200–$400
+23,aquavit,Aquavit,1,100,token_set_ratio,Aquavit,2,Manhattan,NY,Scandinavian,$200–$400
+23,aquavit,Aquavit,1,100,token_set_ratio,Aquavit,2,Manhattan,NY,Scandinavian,$200–$400
+23,gabriel kreuther,Gabriel Kreuther,1,100,token_set_ratio,Gabriel Kreuther,2,Manhattan,NY,Alsatian,$200–$400
+23,gabriel kreuther,Gabriel Kreuther,1,100,token_set_ratio,Gabriel Kreuther,2,Manhattan,NY,Alsatian,$200–$400
+23,gramercy,Gramercy Tavern,1,100,token_set_ratio,Gramercy Tavern,1,Manhattan,NY,Contemporary,$100–$200
+23,tavern,Gramercy Tavern,1,100,token_set_ratio,Gramercy Tavern,1,Manhattan,NY,Contemporary,$100–$200
+23,le bernardin,Le Bernardin,1,100,token_set_ratio,Le Bernardin,3,Manhattan,NY,Seafood,$400–$600
+24,kin khao,Kin Khao,1,100,token_set_ratio,Kin Khao,1,San Francisco,CA,Thai,Less than $100
+25,eleven madison park,Eleven Madison Park,1,100,token_set_ratio,Eleven Madison Park,3,Manhattan,NY,Vegan/Contemporary,$400–$600
+25,minibar,minibar,1,100,token_set_ratio,minibar,2,Washington,DC,Contemporary,$400–$600
+25,pineapple,Pineapple & Pearls,1,100,token_set_ratio,Pineapple & Pearls,1,Washington,DC,Contemporary,$200–$400
+25,pearls,Pineapple & Pearls,1,100,token_set_ratio,Pineapple & Pearls,1,Washington,DC,Contemporary,$200–$400
+25,reverie,Reverie,1,100,token_set_ratio,Reverie,1,Washington,DC,Contemporary,$200–$400
+25,ever,Ever,1,100,token_set_ratio,Ever,2,Chicago,IL,Creative,$400–$600
+26,minibar,minibar,1,100,token_set_ratio,minibar,2,Washington,DC,Contemporary,$400–$600
+26,sushi taro,Sushi Taro,1,100,token_set_ratio,Sushi Taro,1,Washington,DC,Japanese,$100–$200
+26,fiola,Fiola,1,100,token_set_ratio,Fiola,1,Washington,DC,Italian,$200–$400
+26,maydan,Maydan,1,100,token_set_ratio,Maydan,1,Washington,DC,Middle Eastern,$100–$200
+26,albi,Albi,1,100,token_set_ratio,Albi,1,Washington,DC,Middle Eastern,$200–$400
+26,oysteroyster,Oyster Oyster,1,92,partial_ratio,Oyster Oyster,1,Washington,DC,Vegetarian,$100–$200
+26,little pearl,Little Pearl,1,100,token_set_ratio,Little Pearl,1,Washington,DC,Contemporary,$100–$200
+26,pineapple,Pineapple & Pearls,1,100,token_set_ratio,Pineapple & Pearls,1,Washington,DC,Contemporary,$200–$400
+26,pearls,Pineapple & Pearls,1,100,token_set_ratio,Pineapple & Pearls,1,Washington,DC,Contemporary,$200–$400
+26,the inn at little washington,Inn at Little Washington,1,100,token_set_ratio,Inn at Little Washington,3,Rappahannock,VA,American,$400–$600
+26,the shota,The Shota,1,100,token_set_ratio,The Shota,1,San Francisco,CA,Japanese,$200–$400
+26,sons,Sons & Daughters,1,100,token_set_ratio,Sons & Daughters,2,San Francisco,CA,Contemporary,$200–$400
+26,daughters,Sons & Daughters,1,100,token_set_ratio,Sons & Daughters,2,San Francisco,CA,Contemporary,$200–$400
+26,the french laundry,The French Laundry,1,100,token_set_ratio,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+26,alinea,Alinea,0,100,token_set_ratio,Alinea,3,Chicago,IL,Creative,$400–$600
+26,spruce,Spruce,0,100,token_set_ratio,Spruce,1,San Francisco,CA,Californian,$200–$400
+26,elske,Elske,0,100,token_set_ratio,Elske,1,Chicago,IL,Nordic,$100–$200
+26,gravitas,Gravitas,0,100,token_set_ratio,Gravitas,1,Washington,DC,American,$100–$200
+27,le bernardin,Le Bernardin,1,100,token_set_ratio,Le Bernardin,3,Manhattan,NY,Seafood,$400–$600
+27,moody tongue,Moody Tongue,1,100,token_set_ratio,Moody Tongue,2,Chicago,IL,Contemporary,$200–$400
+28,per se,Per Se,1,100,token_set_ratio,Per Se,3,Manhattan,NY,Contemporary,$400–$600
+28,latelier,Atelier,1,93,token_set_ratio,Atelier,1,Chicago,IL,American,$200–$400
+28,al coro,Al Coro,1,100,token_set_ratio,Al Coro,1,Manhattan,NY,Italian,$400–$600
+28,el cielo,El Cielo,1,100,token_set_ratio,El Cielo,1,Washington,DC,Colombian,$200–$400
+28,el cielo,El Cielo,1,100,token_set_ratio,El Cielo,1,Miami,FL,Colombian,$200–$400
+28,white st,One White Street,1,100,partial_ratio,One White Street,1,Manhattan,NY,Contemporary,$200–$400
+28,torrisi,Torrisi,1,100,token_set_ratio,Torrisi,1,Manhattan,NY,Italian,$100–$200
+28,cote,Cote Miami,1,100,token_set_ratio,Cote Miami,1,Miami,FL,Korean,$100–$200
+29,birdsong,Birdsong,1,100,token_set_ratio,Birdsong,2,San Francisco,CA,Contemporary,$400–$600
+29,quience,Quince,1,92,token_set_ratio,Quince,3,San Francisco,CA,Contemporary,$400–$600
+29,singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+29,the french laundry,The French Laundry,1,100,token_set_ratio,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+29,per se,Per Se,1,100,token_set_ratio,Per Se,3,Manhattan,NY,Contemporary,$400–$600
+29,atelier crenn,Atelier,1,100,token_set_ratio,Atelier,1,Chicago,IL,American,$200–$400
+29,the shota,The Shota,1,100,token_set_ratio,The Shota,1,San Francisco,CA,Japanese,$200–$400
+29,sorrel,Sorrel,1,100,token_set_ratio,Sorrel,1,San Francisco,CA,Contemporary,$200–$400
+29,le bernardin,Le Bernardin,1,100,token_set_ratio,Le Bernardin,3,Manhattan,NY,Seafood,$400–$600
+29,niku steakhouse,Niku Steakhouse,1,100,token_set_ratio,Niku Steakhouse,1,San Francisco,CA,American,Less than $100
+30,singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+30,benu,Benu,1,100,token_set_ratio,Benu,3,San Francisco,CA,Asian,$400–$600
+30,californios,Californios,1,100,token_set_ratio,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+30,atomix,Atomix,1,100,token_set_ratio,Atomix,2,Manhattan,NY,Korean,$400–$600
+30,atomix,Atomix,1,100,token_set_ratio,Atomix,2,Manhattan,NY,Korean,$400–$600
+31,alinea,Alinea,1,100,token_set_ratio,Alinea,3,Chicago,IL,Creative,$400–$600
+31,blue hill at stone barns,Blue Hill at Stone Barns,1,100,token_set_ratio,Blue Hill at Stone Barns,1,Pocantico Hills,NY,American,$400–$600
+32,camphor,Camphor,1,100,token_set_ratio,Camphor,1,Los Angeles,CA,French,$100–$200
+32,saison,Saison,1,100,token_set_ratio,Saison,2,San Francisco,CA,Californian,$400–$600
+32,le bernadin,Le Bernardin,0,96,token_set_ratio,Le Bernardin,3,Manhattan,NY,Seafood,$400–$600
+33,providence,Providence,1,100,token_set_ratio,Providence,3,Los Angeles,CA,Seafood,$400–$600
+33,chefs table at brooklyn fare,Chef’s Table at Brooklyn Fare,1,98,token_set_ratio,Chef’s Table at Brooklyn Fare,2,Brooklyn,NY,Contemporary,$400–$600
+33,chefs table at brooklyn fare,Chef’s Table at Brooklyn Fare,1,98,token_set_ratio,Chef’s Table at Brooklyn Fare,2,Brooklyn,NY,Contemporary,$400–$600
+34,gramercy tavern,Gramercy Tavern,1,100,token_set_ratio,Gramercy Tavern,1,Manhattan,NY,Contemporary,$100–$200
+34,the modern,The Modern,1,100,token_set_ratio,The Modern,2,Manhattan,NY,Contemporary,$200–$400
+34,the modern,The Modern,1,100,token_set_ratio,The Modern,2,Manhattan,NY,Contemporary,$200–$400
+34,jean georges,Jean-Georges,1,100,token_set_ratio,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+34,jean georges,Jean-Georges,1,100,token_set_ratio,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+34,le pavillon,Le Pavillon,1,100,token_set_ratio,Le Pavillon,1,Manhattan,NY,Contemporary,$200–$400
+34,gabriel kreuter,Gabriel Kreuther,1,97,token_set_ratio,Gabriel Kreuther,2,Manhattan,NY,Alsatian,$200–$400
+34,gabriel kreuter,Gabriel Kreuther,1,97,token_set_ratio,Gabriel Kreuther,2,Manhattan,NY,Alsatian,$200–$400
+34,mari,Mari,1,100,token_set_ratio,Mari,1,Manhattan,NY,Korean,$200–$400
+34,kochi,Kochi,1,100,token_set_ratio,Kochi,1,Manhattan,NY,Korean,$100–$200
+34,daniel,Daniel,1,100,token_set_ratio,Daniel,2,Manhattan,NY,French,$400–$600
+34,daniel,Daniel,1,100,token_set_ratio,Daniel,2,Manhattan,NY,French,$400–$600
+34,aquavit,Aquavit,1,100,token_set_ratio,Aquavit,2,Manhattan,NY,Scandinavian,$200–$400
+34,aquavit,Aquavit,1,100,token_set_ratio,Aquavit,2,Manhattan,NY,Scandinavian,$200–$400
+34,le bernardin,Le Bernardin,1,100,token_set_ratio,Le Bernardin,3,Manhattan,NY,Seafood,$400–$600
+35,aska,Aska,1,100,token_set_ratio,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+35,aska,Aska,1,100,token_set_ratio,Aska,2,Brooklyn,NY,Scandinavian,$200–$400
+35,eleven madison park,Eleven Madison Park,1,100,token_set_ratio,Eleven Madison Park,3,Manhattan,NY,Vegan/Contemporary,$400–$600
+35,oxomocco,Oxomoco,1,93,token_set_ratio,Oxomoco,1,Brooklyn,NY,Mexican,$100–$200
+36,addison,Addison,1,100,token_set_ratio,Addison,3,San Diego,CA,Contemporary,$400–$600
+36,hayato,Hayato,1,100,token_set_ratio,Hayato,2,Los Angeles,CA,Japanese,$400–$600
+36,somni,Somni,1,100,token_set_ratio,Somni,3,West Hollywood,CA,Contemporary,$600–$800
+36,providence,Providence,1,100,token_set_ratio,Providence,3,Los Angeles,CA,Seafood,$400–$600
+36,sushi kaneyoshi,Sushi Kaneyoshi,1,100,token_set_ratio,Sushi Kaneyoshi,1,Los Angeles,CA,Japanese,$400–$600
+36,the french laundry,The French Laundry,1,100,token_set_ratio,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+36,singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+36,harbor house,Harbor House,1,100,token_set_ratio,Harbor House,2,Elk,CA,Californian,$400–$600
+36,oriole,Oriole,1,100,token_set_ratio,Oriole,2,Chicago,IL,Contemporary,$400–$600
+36,smyth,Smyth,0,100,token_set_ratio,Smyth,3,Chicago,IL,Contemporary,$400–$600
+36,ever,Ever,0,100,token_set_ratio,Ever,2,Chicago,IL,Creative,$400–$600
+37,the french laundry,The French Laundry,1,100,token_set_ratio,The French Laundry,3,Yountville,CA,Contemporary,$600–$800
+37,singlethread,SingleThread,0,100,token_set_ratio,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+38,singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+38,lazy bear,Lazy Bear,1,100,token_set_ratio,Lazy Bear,2,San Francisco,CA,Contemporary,$400–$600
+38,sushi nakazawa,Sushi Nakazawa,1,100,token_set_ratio,Sushi Nakazawa,1,Washington,DC,Japanese,$200–$400
+38,sushi nakazawa,Sushi Nakazawa,1,100,token_set_ratio,Sushi Nakazawa,1,Manhattan,NY,Japanese,$200–$400
+39,singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3,Healdsburg,CA,Contemporary,$400–$600
+39,lazy bear,Lazy Bear,1,100,token_set_ratio,Lazy Bear,2,San Francisco,CA,Contemporary,$400–$600
+39,californios,Californios,1,100,token_set_ratio,Californios,2,San Francisco,CA,Mexican/Contemporary,$400–$600
+39,benu,Benu,0,100,token_set_ratio,Benu,3,San Francisco,CA,Asian,$400–$600
+39,atelier crenn,Atelier,0,100,token_set_ratio,Atelier,1,Chicago,IL,American,$200–$400
+40,restaurant yuu,Restaurant Yuu,1,100,token_set_ratio,Restaurant Yuu,1,Brooklyn,NY,French,$200–$400
+40,atomix,Atomix,1,100,token_set_ratio,Atomix,2,Manhattan,NY,Korean,$400–$600
+40,atomix,Atomix,1,100,token_set_ratio,Atomix,2,Manhattan,NY,Korean,$400–$600
+40,per se,Per Se,1,100,token_set_ratio,Per Se,3,Manhattan,NY,Contemporary,$400–$600
+40,rezdora,Rezdôra,1,100,token_set_ratio,Rezdôra,1,Manhattan,NY,Italian,$100–$200
+40,noksu,Noksu,1,100,token_set_ratio,Noksu,1,Manhattan,NY,Korean,$100–$200
+40,meju,Meju,1,100,token_set_ratio,Meju,1,Queens,NY,Korean,$200–$400
+40,saga,Saga,1,100,token_set_ratio,Saga,2,Manhattan,NY,Contemporary,$400–$600
+40,saga,Saga,1,100,token_set_ratio,Saga,2,Manhattan,NY,Contemporary,$400–$600
+41,cote,Cote Miami,0,100,token_set_ratio,Cote Miami,1,Miami,FL,Korean,$100–$200
+41,le jardinier,Le Jardinier Houston,0,100,token_set_ratio,Le Jardinier Houston,1,Houston,TX,French,$200–$400
+41,ariete,Ariete,0,100,token_set_ratio,Ariete,1,Miami,FL,Contemporary,$100–$200
+41,los felix,Los Félix,0,100,token_set_ratio,Los Félix,1,Miami,FL,Mexican,$100–$200
+42,gabriel kreuther,Gabriel Kreuther,1,100,token_set_ratio,Gabriel Kreuther,2,Manhattan,NY,Alsatian,$200–$400
+42,gabriel kreuther,Gabriel Kreuther,1,100,token_set_ratio,Gabriel Kreuther,2,Manhattan,NY,Alsatian,$200–$400
+42,jean georges,Jean-Georges,1,100,token_set_ratio,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+42,jean georges,Jean-Georges,1,100,token_set_ratio,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+43,per se,Per Se,1,100,token_set_ratio,Per Se,3,Manhattan,NY,Contemporary,$400–$600
+43,jean georges,Jean-Georges,1,100,token_set_ratio,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+43,jean georges,Jean-Georges,1,100,token_set_ratio,Jean-Georges,2,Manhattan,NY,Contemporary,$400–$600
+43,le coucou,Le Coucou,1,100,token_set_ratio,Le Coucou,1,Manhattan,NY,French,Less than $100
+43,le pavilion,Le Pavillon,1,91,token_set_ratio,Le Pavillon,1,Manhattan,NY,Contemporary,$200–$400
+43,saga,Saga,1,100,token_set_ratio,Saga,2,Manhattan,NY,Contemporary,$400–$600
+43,saga,Saga,1,100,token_set_ratio,Saga,2,Manhattan,NY,Contemporary,$400–$600
+43,one white street,One White Street,1,100,token_set_ratio,One White Street,1,Manhattan,NY,Contemporary,$200–$400
+43,estela,Estela,1,100,token_set_ratio,Estela,1,Manhattan,NY,Contemporary,$100–$200
+43,atomix,Atomix,1,100,token_set_ratio,Atomix,2,Manhattan,NY,Korean,$400–$600
+43,atomix,Atomix,1,100,token_set_ratio,Atomix,2,Manhattan,NY,Korean,$400–$600
+43,jungsik,Jungsik,1,100,token_set_ratio,Jungsik,3,Manhattan,NY,Korean,$400–$600
+44,victoria,Victoria & Albert's,1,100,token_set_ratio,Victoria & Albert's,1,Orlando,FL,Contemporary,$200–$400
+44,alberts,Victoria & Albert's,1,86,partial_ratio,Victoria & Albert's,1,Orlando,FL,Contemporary,$200–$400
+44,capa,Capa,1,100,token_set_ratio,Capa,1,Lake Buena Vista,FL,Steakhouse,$100–$200
+45,omo,Oxomoco,1,100,partial_ratio,Oxomoco,1,Brooklyn,NY,Mexican,$100–$200
+45,victoria,Victoria & Albert's,0,100,token_set_ratio,Victoria & Albert's,1,Orlando,FL,Contemporary,$200–$400
+45,alberts,Victoria & Albert's,0,86,partial_ratio,Victoria & Albert's,1,Orlando,FL,Contemporary,$200–$400
+46,sorekara,Sorekara,1,100,token_set_ratio,Sorekara,2,Orlando,FL,Japanese,$200–$400
+46,omo,Oxomoco,1,100,partial_ratio,Oxomoco,1,Brooklyn,NY,Mexican,$100–$200
