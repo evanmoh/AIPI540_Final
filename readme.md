@@ -23,44 +23,9 @@ This project builds a **personalized Michelin restaurant recommender for the US*
 
 ---
 
-## File Structure```
+## File Structure
+<pre> ## File Structure ``` AIPI540_Final/ ├── data/ │ ├── raw/ │ │ ├── Michelin_List.xlsx │ │ ├── MichelinColabFiltering.xlsx │ │ └── Michelin Restaurant Recommender.xlsx │ └── output/ │ ├── cleaned_colab_feedback.csv │ ├── cleaned_survey_feedback.csv │ ├── user_features.csv │ ├── restaurant_features.csv │ ├── training_hybrid.csv │ ├── training_hybrid_wcf.csv │ └── unmatched_for_review.csv ├── models/ │ ├── best_ml_model.joblib │ ├── best_nn.pt │ ├── imputer.joblib │ ├── scaler.joblib │ ├── svd_model.joblib │ ├── svd_mappings.json │ ├── feature_cols.json │ ├── user_latent.npy │ └── rest_latent.npy ├── scripts/ │ ├── data_prep.py │ ├── features.py │ ├── ml.py │ ├── nn.py │ ├── naive.py │ ├── svd_train.py │ └── app.py ├── requirements.txt ├── setup.py ├── LICENSE └── README.md ``` </pre>
 
-AIPI540_Final/<br>
-├── data/<br>
-│ ├── raw/<br>
-│ │ ├── Michelin_List.xlsx<br>
-│ │ ├── MichelinColabFiltering.xlsx<br>
-│ │ └── Michelin Restaurant Recommender.xlsx<br>
-│ └── output/<br>
-│ ├── cleaned_colab_feedback.csv<br>
-│ ├── cleaned_survey_feedback.csv<br>
-│ ├── user_features.csv<br>
-│ ├── restaurant_features.csv<br>
-│ ├── training_hybrid.csv<br>
-│ ├── training_hybrid_wcf.csv<br>
-│ └── unmatched_for_review.csv<br>
-├── models/<br>
-│ ├── best_ml_model.joblib<br>
-│ ├── best_nn.pt<br>
-│ ├── imputer.joblib<br>
-│ ├── scaler.joblib<br>
-│ ├── svd_model.joblib<br>
-│ ├── svd_mappings.json<br>
-│ ├── feature_cols.json<br>
-│ ├── user_latent.npy<br>
-│ └── rest_latent.npy<br>
-├── scripts/<br>
-│ ├── data_prep.py<br>
-│ ├── features.py<br>
-│ ├── ml.py<br>
-│ ├── nn.py<br>
-│ ├── naive.py<br>
-│ ├── svd_train.py<br>
-│ └── app.py<br>
-├── requirements.txt<br>
-├── setup.py<br>
-├── LICENSE<br>
-└── README.md<br>
 ---
 
 ## Data Sources
