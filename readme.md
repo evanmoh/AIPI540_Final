@@ -23,7 +23,7 @@ This project builds a **personalized Michelin restaurant recommender for the US*
 
 ---
 
-## File Structure
+## File Structure```
 
 AIPI540_Final/<br>
 ├── data/<br>
