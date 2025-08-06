@@ -25,21 +25,42 @@ This project builds a **personalized Michelin restaurant recommender for the US*
 
 ## File Structure
 
-michelin-restaurant-recommender/<br>
-├── data/                   # Data files<br>
-├── models/                 # Trained models<br>
-├── scripts/               # Training and utility scripts<br>
-│   ├── data_prep.py      # Data preprocessing<br>
-│   ├── features.py       # Feature engineering<br>
-│   ├── ml.py            # ML model training<br>
-│   ├── nn.py            # Neural network training<br>
-│   ├── naive.py         # Baseline models<br>
-│   └── svd_train.py     # SVD model training<br>
-├── app.py               # Main application<br>
-├── requirements.txt     # Dependencies<br>
-├── setup.py            # Installation script<br>
-└── README.md           # This file
-
+AIPI540_Final/<br>
+├── data/<br>
+│ ├── raw/<br>
+│ │ ├── Michelin_List.xlsx<br>
+│ │ ├── MichelinColabFiltering.xlsx<br>
+│ │ └── Michelin Restaurant Recommender.xlsx<br>
+│ └── output/<br>
+│ ├── cleaned_colab_feedback.csv<br>
+│ ├── cleaned_survey_feedback.csv<br>
+│ ├── user_features.csv<br>
+│ ├── restaurant_features.csv<br>
+│ ├── training_hybrid.csv<br>
+│ ├── training_hybrid_wcf.csv<br>
+│ └── unmatched_for_review.csv<br>
+├── models/<br>
+│ ├── best_ml_model.joblib<br>
+│ ├── best_nn.pt<br>
+│ ├── imputer.joblib<br>
+│ ├── scaler.joblib<br>
+│ ├── svd_model.joblib<br>
+│ ├── svd_mappings.json<br>
+│ ├── feature_cols.json<br>
+│ ├── user_latent.npy<br>
+│ └── rest_latent.npy<br>
+├── scripts/<br>
+│ ├── data_prep.py<br>
+│ ├── features.py<br>
+│ ├── ml.py<br>
+│ ├── nn.py<br>
+│ ├── naive.py<br>
+│ ├── svd_train.py<br>
+│ └── app.py<br>
+├── requirements.txt<br>
+├── setup.py<br>
+├── LICENSE<br>
+└── README.md<br>
 ---
 
 ## Data Sources
@@ -84,7 +105,7 @@ michelin-restaurant-recommender/<br>
 ```bash
 pip install -r requirements.txt
 ``` 
-*** Run setup.py ***
+***Run setup.py***
 
 
 ## Chosen Approach
