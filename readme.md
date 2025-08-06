@@ -14,52 +14,31 @@ This project builds a **personalized Michelin restaurant recommender for the US*
 ## Table of Contents
 
 - [Overview](#overview)
-- [Project Structure](#project-structure)
+- [File Structure](#file-structure)
 - [Data Sources](#data-sources)
 - [Pipeline Steps](#pipeline-steps)
 - [Evaluation](#evaluation)
 - [How to Run](#how-to-run)
-- [Demo (Streamlit App)](#demo-streamlit-app)
 - [Ethics Statement](#ethics-statement)
 
 ---
 
 ## File Structure
 
-data/
-raw/
-Michelin_List.xlsx
-MichelinColabFiltering.xlsx
-Michelin Restaurant Recommender.xlsx
-output/
-cleaned_colab_feedback.csv
-cleaned_survey_feedback.csv
-user_features.csv
-restaurant_features.csv
-training_hybrid.csv
-training_hybrid_wcf.csv
-...
-models/
-best_ml_model.joblib
-best_nn.pt
-imputer.joblib
-scaler.joblib
-svd_model.joblib
-svd_mappings.json
-feature_cols.json
-scripts/
-data_prep.py
-features.py
-ml.py
-nn.py
-naive.py
-svd_train.py
-app.py
-requirements.txt
-setup.py
-LICENSE
-README.md
-
+michelin-restaurant-recommender/<br>
+├── data/                   # Data files<br>
+├── models/                 # Trained models<br>
+├── scripts/               # Training and utility scripts<br>
+│   ├── data_prep.py      # Data preprocessing<br>
+│   ├── features.py       # Feature engineering<br>
+│   ├── ml.py            # ML model training<br>
+│   ├── nn.py            # Neural network training<br>
+│   ├── naive.py         # Baseline models<br>
+│   └── svd_train.py     # SVD model training<br>
+├── app.py               # Main application<br>
+├── requirements.txt     # Dependencies<br>
+├── setup.py            # Installation script<br>
+└── README.md           # This file
 
 ---
 
