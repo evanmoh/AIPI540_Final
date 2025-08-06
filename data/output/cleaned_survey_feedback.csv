@@ -1,0 +1,107 @@
+﻿user_id,RestaurantName,MatchedName,Label,MatchScore,MatchMethod,Restaurant Name,Star,City,State,Cuisine Type,Price Range
+118908225336.0,larrabetzu spain per se,Per Se,1,100,token_set_ratio,Per Se,3.0,Manhattan,NY,Contemporary,$400–$600
+118908225336.0,nyc single thread,SingleThread,1,92,partial_ratio,SingleThread,3.0,Healdsburg,CA,Contemporary,$400–$600
+118908225336.0,cheval blanc,Cheval Blanc,0,100,manual,,,,,,
+118908225336.0,or try to address it inn at little washington,Inn at Little Washington,0,100,token_set_ratio,Inn at Little Washington,3.0,Rappahannock,VA,American,$400–$600
+118906876734.0,meju ny,Meju,1,100,token_set_ratio,Meju,1.0,Queens,NY,Korean,$200–$400
+118906876734.0,ny sushi sho ny,Sushi Sho,1,100,token_set_ratio,Sushi Sho,1.0,Manhattan,NY,Japanese,$400–$600
+118906876734.0,le bernardin ny,Le Bernardin,0,100,token_set_ratio,Le Bernardin,3.0,Manhattan,NY,Seafood,$400–$600
+118906770082.0,temporis,Temporis,1,100,token_set_ratio,Temporis,1.0,Chicago,IL,Contemporary,$200–$400
+118906770082.0,smyth,Smyth,0,100,token_set_ratio,Smyth,3.0,Chicago,IL,Contemporary,$400–$600
+118905900529.0,bells,Bell’s,1,91,token_set_ratio,Bell’s,1.0,Los Alamos,CA,French,$100–$200
+118905900529.0,meteora,Meteora,1,100,token_set_ratio,Meteora,1.0,Los Angeles,CA,Contemporary,$200–$400
+118905900529.0,the modern,The Modern,1,100,token_set_ratio,The Modern,2.0,Manhattan,NY,Contemporary,$200–$400
+118905900529.0,the modern,The Modern,1,100,token_set_ratio,The Modern,2.0,Manhattan,NY,Contemporary,$200–$400
+118905696456.0,smyth,Smyth,1,100,token_set_ratio,Smyth,3.0,Chicago,IL,Contemporary,$400–$600
+118905696456.0,jont,Jônt,1,100,manual,Jônt,2.0,Washington,DC,Contemporary,$400–$600
+118905696456.0,kinship,Kinship,1,100,token_set_ratio,Kinship,1.0,Washington,DC,French,$100–$200
+118905696456.0,gravitas,Gravitas,1,100,token_set_ratio,Gravitas,1.0,Washington,DC,American,$100–$200
+118905696456.0,tail up goat,Tail Up Goat,0,100,token_set_ratio,Tail Up Goat,1.0,Washington,DC,Contemporary,$100–$200
+118905696456.0,cranes,Cranes,0,100,token_set_ratio,Cranes,1.0,Washington,DC,Fusion,$100–$200
+118905684111.0,moko kyoto,Ko,1,100,partial_ratio,Ko,2.0,Manhattan,NY,Contemporary,$400–$600
+118905684111.0,jungsik nyc,Jungsik,0,100,token_set_ratio,Jungsik,3.0,Manhattan,NY,Korean,$400–$600
+118905673387.0,per se,Per Se,1,100,token_set_ratio,Per Se,3.0,Manhattan,NY,Contemporary,$400–$600
+118905673387.0,sushi sho,Sushi Sho,1,100,token_set_ratio,Sushi Sho,1.0,Manhattan,NY,Japanese,$400–$600
+118905673387.0,sushi nakazawa,Sushi Nakazawa,1,100,token_set_ratio,Sushi Nakazawa,1.0,Washington,DC,Japanese,$200–$400
+118905673387.0,sushi nakazawa,Sushi Nakazawa,1,100,token_set_ratio,Sushi Nakazawa,1.0,Manhattan,NY,Japanese,$200–$400
+118905673387.0,alinea,Alinea,0,100,token_set_ratio,Alinea,3.0,Chicago,IL,Creative,$400–$600
+118905673387.0,theres so many people in the kitchen called chef will never go back,The Kitchen,0,100,token_set_ratio,The Kitchen,1.0,Sacramento,CA,Californian,$200–$400
+118905672789.0,kl narisawa,Nari,1,100,partial_ratio,Nari,1.0,San Francisco,CA,Thai,$200–$400
+118905675231.0,french laundry,The French Laundry,1,100,token_set_ratio,The French Laundry,3.0,Yountville,CA,Contemporary,$600–$800
+118905675231.0,per se,Per Se,1,100,token_set_ratio,Per Se,3.0,Manhattan,NY,Contemporary,$400–$600
+118905675231.0,jungsik,Jungsik,0,100,token_set_ratio,Jungsik,3.0,Manhattan,NY,Korean,$400–$600
+118905493386.0,czechia le bernadin,Le Bernardin,1,96,partial_ratio,Le Bernardin,3.0,Manhattan,NY,Seafood,$400–$600
+118905389207.0,le bernardin new york,Le Bernardin,1,100,token_set_ratio,Le Bernardin,3.0,Manhattan,NY,Seafood,$400–$600
+118905389207.0,usa niku steakhouse san francisco,Niku Steakhouse,1,100,token_set_ratio,Niku Steakhouse,1.0,San Francisco,CA,American,Less than $100
+118905389207.0,state bird provisions,State Bird Provisions,0,100,token_set_ratio,State Bird Provisions,1.0,San Francisco,CA,Californian,$100–$200
+118905369765.0,singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3.0,Healdsburg,CA,Contemporary,$400–$600
+118905361387.0,alinea,Alinea,1,100,token_set_ratio,Alinea,3.0,Chicago,IL,Creative,$400–$600
+118905361387.0,ever,Ever,0,100,token_set_ratio,Ever,2.0,Chicago,IL,Creative,$400–$600
+118905348824.0,lilo,Lilo,1,100,token_set_ratio,Lilo,1.0,Carlsbad,CA,Californian,$100–$200
+118905342502.0,smyth,Smyth,1,100,token_set_ratio,Smyth,3.0,Chicago,IL,Contemporary,$400–$600
+118905342502.0,usa oriole,Oriole,1,100,token_set_ratio,Oriole,2.0,Chicago,IL,Contemporary,$400–$600
+118905342502.0,thailand carino,Cariño,1,100,token_set_ratio,Cariño,1.0,Chicago,IL,Mexican,$100–$200
+118905342502.0,boka,Boka,0,100,token_set_ratio,Boka,1.0,Chicago,IL,American,$200–$400
+118905342502.0,galit,Galit,0,100,token_set_ratio,Galit,1.0,Chicago,IL,Middle Eastern,$100–$200
+118905333729.0,core by clare smyth,Core by Clare Smyth,1,100,manual,,,,,,
+118905333964.0,indienne,Indienne,1,100,token_set_ratio,Indienne,1.0,Chicago,IL,Indian,$100–$200
+118905319162.0,hiden,Hiden,1,100,token_set_ratio,Hiden,1.0,Miami,FL,Japanese,$200–$400
+118905319162.0,ariete,Ariete,1,100,token_set_ratio,Ariete,1.0,Miami,FL,Contemporary,$100–$200
+118905319162.0,latelier in miami,Atelier,0,100,partial_ratio,Atelier,1.0,Chicago,IL,American,$200–$400
+118905308461.0,osaka,Kosaka,1,91,token_set_ratio,Kosaka,1.0,Manhattan,NY,Japanese,$200–$400
+118905308461.0,japan kohaku,Ko,1,100,partial_ratio,Ko,2.0,Manhattan,NY,Contemporary,$400–$600
+118905308461.0,japan benu,Benu,1,100,token_set_ratio,Benu,3.0,San Francisco,CA,Asian,$400–$600
+118905308461.0,usa commis,Commis,1,100,token_set_ratio,Commis,2.0,Oakland,CA,Contemporary,$200–$400
+118905308461.0,france wakuriya,Wakuriya,1,100,token_set_ratio,Wakuriya,2.0,San Mateo,CA,Japanese,$200–$400
+118905308461.0,france wakuriya,Wakuriya,1,100,token_set_ratio,Wakuriya,2.0,San Mateo,CA,Japanese,$200–$400
+118905308461.0,usa addison,Addison,1,100,token_set_ratio,Addison,3.0,San Diego,CA,Contemporary,$400–$600
+118905308461.0,usa alinea,Alinea,1,100,token_set_ratio,Alinea,3.0,Chicago,IL,Creative,$400–$600
+118905308461.0,usa oriole,Oriole,1,100,token_set_ratio,Oriole,2.0,Chicago,IL,Contemporary,$400–$600
+118905308461.0,usa the inn at little washington,Inn at Little Washington,1,100,token_set_ratio,Inn at Little Washington,3.0,Rappahannock,VA,American,$400–$600
+118905308461.0,usa jungsik,Jungsik,1,100,token_set_ratio,Jungsik,3.0,Manhattan,NY,Korean,$400–$600
+118905308461.0,south korea kitcho arashiyama,Ko,1,100,partial_ratio,Ko,2.0,Manhattan,NY,Contemporary,$400–$600
+118905308461.0,france harbor house,Harbor House,1,100,token_set_ratio,Harbor House,2.0,Elk,CA,Californian,$400–$600
+118905308461.0,usa singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3.0,Healdsburg,CA,Contemporary,$400–$600
+118905308461.0,usa holbox,Holbox,1,100,token_set_ratio,Holbox,1.0,Los Angels,CA,Mexican,$100–$200
+118905308461.0,usa californios,Californios,1,100,token_set_ratio,Californios,2.0,San Francisco,CA,Mexican/Contemporary,$400–$600
+118905308461.0,usa sushi yoshizumi,Sushi Yoshizumi,1,100,token_set_ratio,Sushi Yoshizumi,1.0,San Mateo,CA,Japanese,$200–$400
+118905308461.0,usa nnaka,n/naka,1,91,partial_ratio,n/naka,2.0,Los Angeles,CA,Japanese,$400–$600
+118905308461.0,usa minibar,minibar,1,100,token_set_ratio,minibar,2.0,Washington,DC,Contemporary,$400–$600
+118905308461.0,usa somni,Somni,1,100,token_set_ratio,Somni,3.0,West Hollywood,CA,Contemporary,$600–$800
+118905308461.0,usa localis,Localis,1,100,token_set_ratio,Localis,1.0,Sacramento,CA,Contemporary,$100–$200
+118905308461.0,sushi umi,Shibumi,0,86,partial_ratio,Shibumi,1.0,Los Angeles,CA,Japanese,$200–$400
+118905308461.0,japan quince,Quince,0,100,token_set_ratio,Quince,3.0,San Francisco,CA,Contemporary,$400–$600
+118905309199.0,camphor,Camphor,0,100,token_set_ratio,Camphor,1.0,Los Angeles,CA,French,$100–$200
+118905308425.0,singapore per se,Per Se,1,100,token_set_ratio,Per Se,3.0,Manhattan,NY,Contemporary,$400–$600
+118905308425.0,french laundry,The French Laundry,0,100,token_set_ratio,The French Laundry,3.0,Yountville,CA,Contemporary,$600–$800
+118905308323.0,ikoyi,Ko,1,100,partial_ratio,Ko,2.0,Manhattan,NY,Contemporary,$400–$600
+118905301782.0,japan hayato,Hayato,1,100,token_set_ratio,Hayato,2.0,Los Angeles,CA,Japanese,$400–$600
+118905301782.0,usa providence,Providence,1,100,token_set_ratio,Providence,3.0,Los Angeles,CA,Seafood,$400–$600
+118905301782.0,usa nnaka,n/naka,1,91,partial_ratio,n/naka,2.0,Los Angeles,CA,Japanese,$400–$600
+118905301782.0,usa holbox,Holbox,1,100,token_set_ratio,Holbox,1.0,Los Angels,CA,Mexican,$100–$200
+118905301782.0,usa kiln,Kiln,1,100,token_set_ratio,Kiln,2.0,San Francisco,CA,Contemporary,$200–$400
+118905301782.0,us aubergine,Aubergine,1,100,token_set_ratio,Aubergine,1.0,Carmel-by-the-Sea,CA,Contemporary,$200–$400
+118905301782.0,usa jungsik,Jungsik,1,100,token_set_ratio,Jungsik,3.0,Manhattan,NY,Korean,$400–$600
+118905301782.0,usa aquavit,Aquavit,1,100,token_set_ratio,Aquavit,2.0,Manhattan,NY,Scandinavian,$200–$400
+118905301782.0,usa aquavit,Aquavit,1,100,token_set_ratio,Aquavit,2.0,Manhattan,NY,Scandinavian,$200–$400
+118905301782.0,usa atomix,Atomix,1,100,token_set_ratio,Atomix,2.0,Manhattan,NY,Korean,$400–$600
+118905301782.0,usa atomix,Atomix,1,100,token_set_ratio,Atomix,2.0,Manhattan,NY,Korean,$400–$600
+118905301782.0,usa odo,Odo,1,100,token_set_ratio,Odo,1.0,Manhattan,NY,Japanese,$400–$600
+118905301782.0,usa corima,Corima,1,100,token_set_ratio,Corima,1.0,Manhattan,NY,Mexican,$100–$200
+118905301782.0,usa singlethread,SingleThread,1,100,token_set_ratio,SingleThread,3.0,Healdsburg,CA,Contemporary,$400–$600
+118905301782.0,usa acquerello,Acquerello,1,100,token_set_ratio,Acquerello,2.0,San Francisco,CA,Italian,$200–$400
+118905301782.0,usa lazy bear,Lazy Bear,1,100,token_set_ratio,Lazy Bear,2.0,San Francisco,CA,Contemporary,$400–$600
+118905301782.0,usa ssal,Ssal,1,100,token_set_ratio,Ssal,1.0,San Francisco,CA,Korean,$200–$400
+118905301782.0,okay food sorrel,Sorrel,0,100,token_set_ratio,Sorrel,1.0,San Francisco,CA,Contemporary,$200–$400
+118905301782.0,service some of worst ive experienced meteora,Meteora,0,100,token_set_ratio,Meteora,1.0,Los Angeles,CA,Contemporary,$200–$400
+118905304997.0,nnaka,n/naka,1,91,token_set_ratio,n/naka,2.0,Los Angeles,CA,Japanese,$400–$600
+118905304997.0,vespertine,Vespertine,1,100,token_set_ratio,Vespertine,2.0,Culver City,CA,Contemporary,$400–$600
+118905304997.0,osteria mozza,Osteria Mozza,1,100,token_set_ratio,Osteria Mozza,1.0,Los Angeles,CA,Italian,$100–$200
+118905305626.0,moments in barcelona wasnt impressed,Press,0,100,partial_ratio,Press,1.0,St. Helena,CA,Modern,$200–$400
+118905305626.0,by the taste ate there when it bad 2 stars now its one i believe,Ever,0,86,partial_ratio,Ever,2.0,Chicago,IL,Creative,$400–$600
+118905305626.0,leffervenscence in tokyo wasnt overly impressive to me taste wise either food was beautiful though,Press,0,100,partial_ratio,Press,1.0,St. Helena,CA,Modern,$200–$400
+118905303248.0,inn at little washington,Inn at Little Washington,1,100,token_set_ratio,Inn at Little Washington,3.0,Rappahannock,VA,American,$400–$600
+118905303248.0,jungsik,Jungsik,1,100,token_set_ratio,Jungsik,3.0,Manhattan,NY,Korean,$400–$600
+118905303248.0,meju,Meju,1,100,token_set_ratio,Meju,1.0,Queens,NY,Korean,$200–$400
+118905303248.0,alinea in chicago,Alinea,0,100,token_set_ratio,Alinea,3.0,Chicago,IL,Creative,$400–$600
+118905303248.0,bom in new york,Bom,0,100,token_set_ratio,Bom,1.0,Manhattan,NY,Korean,$200–$400
